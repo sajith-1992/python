@@ -6,4 +6,5 @@ people = {
 }
 name = input("name:")
 if name in people:
-    print(f"number:{people[name]}")
+    number = people[name]
+    print(f"number:{number}")
