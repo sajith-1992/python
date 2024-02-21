@@ -1,4 +1,6 @@
-if 10<9:
+if 9==9:
     print(9>10)
-else:
+elif 9<10:
     print ("smaller")
+else 9==9:
+    print("equals")
